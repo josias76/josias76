@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**josias76/josias76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[WhatsApp Image 2025-02-14 at 16 32 10](https://github.com/user-attachments/assets/981d284d-9eb8-45ca-837e-f4a4c143c626)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**josias76/josias76** is a ✨ _special_ ✨ Statistician and Data Analyst
+
+
+
+- 👋 Hi people, My name is josias nteme
+- 🔭 I’m currently working on Data Analysis projects
+- 🌱 I’m currently learning Data science
+- 👯 I’m looking to collaborate with people interested in Data science projets
+- 💬 You can follow me on linkdin : (https://www.linkedin.com/in/josias-nteme-95757721a/)
+- 📫 How to reach me: josias76nteme@gmail.com
+
 -->
