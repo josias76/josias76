@@ -1,6 +1,4 @@
 
-
-[WhatsApp Image 2025-02-14 at 16 32 10]
 (https://github.com/user-attachments/assets/981d284d-9eb8-45ca-837e-f4a4c143c626)
 
 
